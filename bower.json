@@ -1,14 +1,15 @@
 {
-  "name": "uno-zen",
+  "name": "uno-zen-elucidating",
   "description": "Minimalist and Elegant theme for Ghost",
-  "homepage": "https://github.com/kikobeats/uno-zen",
+  "homepage": "https://github.com/elucidator/uno-zen",
   "version": "2.9.4",
   "authors": [
     "Kiko Beats <josefrancisco.verdu@gmail.com>"
+    "Pieter van der Meer <pieter@elucidator.nl>"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kikobeats/uno-zen.git"
+    "url": "git+https://github.com/elucidator/uno-zen.git"
   },
   "bugs": {
     "url": "https://github.com/Kikobeats/uno-zen/issues"
